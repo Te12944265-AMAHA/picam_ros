@@ -1,0 +1,2 @@
+<node pkg="picam_ros" name="publish_image" type="publish_image.py" output="screen">
+</node>
